@@ -1,4 +1,4 @@
-# Lin-UI定义文件
+# Lin-UI 定义文件
 
 Lin-UI API 的 TypeScript 类型定义文件
 
@@ -14,4 +14,4 @@ version 0.1.0 beta
 
 ## 更新日志
 
-参考 [CHANGELOG.md](https://github.com/wechat-miniprogram/api-typings/blob/master/CHANGELOG.md)
+参考 [CHANGELOG.md](https://github.com/NaOH123321/lin-ui-ts/master/CHANGELOG.md)
