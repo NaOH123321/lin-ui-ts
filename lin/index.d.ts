@@ -2,6 +2,6 @@
 
 declare namespace WechatMiniprogram {
   interface Wx {
-    lin: Lin;
+    lin: LinUI.Lin;
   }
 }
