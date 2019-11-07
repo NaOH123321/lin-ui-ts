@@ -14,4 +14,4 @@ version 0.1.0 beta
 
 ## 更新日志
 
-参考 [CHANGELOG.md](https://github.com/NaOH123321/lin-ui-ts/CHANGELOG.md)
+参考 [CHANGELOG.md](https://github.com/NaOH123321/lin-ui-ts/blob/master/CHANGELOG.md)
