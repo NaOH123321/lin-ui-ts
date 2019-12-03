@@ -197,6 +197,6 @@ declare namespace LinUI {
     opacity?: number;
   }
 
-  type LoadingType = 'falsh' | 'flip' | 'change' | 'rotate' | 'circle';
+  type LoadingType = 'flash' | 'flip' | 'change' | 'rotate' | 'circle';
   type LoadingSize = 'mini' | 'medium' | 'large';
 }
